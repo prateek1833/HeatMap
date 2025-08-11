@@ -1,0 +1,1332 @@
+[
+    {
+        "timestamp": "2025-06-29 14:49:05",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.06",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:18:55"
+    },
+    {
+        "timestamp": "2025-06-29 14:49:10",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.50",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:19:10"
+    },
+    {
+        "timestamp": "2025-06-29 14:49:15",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.48",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:19:10"
+    },
+    {
+        "timestamp": "2025-06-29 14:49:20",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.48",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:19:10"
+    },
+    {
+        "timestamp": "2025-06-29 14:49:25",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.33",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:19:10"
+    },
+    {
+        "timestamp": "2025-06-29 14:49:30",
+        "TDS": "2.42",
+        "Turbidity": "3.30",
+        "pH": "6.33",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:19:10"
+    },
+    {
+        "timestamp": "2025-06-29 14:49:35",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.45",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:19:10"
+    },
+    {
+        "timestamp": "2025-06-29 14:49:40",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.42",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:19:10"
+    },
+    {
+        "timestamp": "2025-06-29 14:49:45",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.36",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:19:10"
+    },
+    {
+        "timestamp": "2025-06-29 14:49:50",
+        "TDS": "4.43",
+        "Turbidity": "3.30",
+        "pH": "6.32",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:19:10"
+    },
+    {
+        "timestamp": "2025-06-29 14:49:55",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.37",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:19:10"
+    },
+    {
+        "timestamp": "2025-06-29 14:50:00",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "5.97",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:19:10"
+    },
+    {
+        "timestamp": "2025-06-29 14:50:05",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.26",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:20:1"
+    },
+    {
+        "timestamp": "2025-06-29 14:50:10",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "5.92",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:20:6"
+    },
+    {
+        "timestamp": "2025-06-29 14:50:15",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.10",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:20:11"
+    },
+    {
+        "timestamp": "2025-06-29 14:50:20",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "5.96",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:20:16"
+    },
+    {
+        "timestamp": "2025-06-29 14:50:25",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.40",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:20:21"
+    },
+    {
+        "timestamp": "2025-06-29 14:50:30",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.41",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:20:26"
+    },
+    {
+        "timestamp": "2025-06-29 14:50:35",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "5.98",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:20:31"
+    },
+    {
+        "timestamp": "2025-06-29 14:50:40",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.04",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:20:36"
+    },
+    {
+        "timestamp": "2025-06-29 14:50:45",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "5.97",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:20:41"
+    },
+    {
+        "timestamp": "2025-06-29 14:50:50",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.08",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:20:46"
+    },
+    {
+        "timestamp": "2025-06-29 14:50:55",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.03",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:20:51"
+    },
+    {
+        "timestamp": "2025-06-29 14:51:00",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "5.99",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:20:56"
+    },
+    {
+        "timestamp": "2025-06-29 14:51:05",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.01",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:21:1"
+    },
+    {
+        "timestamp": "2025-06-29 14:51:10",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.28",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:21:6"
+    },
+    {
+        "timestamp": "2025-06-29 14:51:15",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.01",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:21:11"
+    },
+    {
+        "timestamp": "2025-06-29 14:51:20",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.05",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:21:16"
+    },
+    {
+        "timestamp": "2025-06-29 14:51:25",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.09",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:21:21"
+    },
+    {
+        "timestamp": "2025-06-29 14:51:30",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.35",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:21:26"
+    },
+    {
+        "timestamp": "2025-06-29 14:51:35",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.36",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:21:31"
+    },
+    {
+        "timestamp": "2025-06-29 14:51:40",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.37",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:21:36"
+    },
+    {
+        "timestamp": "2025-06-29 14:51:45",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "5.96",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:21:41"
+    },
+    {
+        "timestamp": "2025-06-29 14:51:50",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.09",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:21:46"
+    },
+    {
+        "timestamp": "2025-06-29 14:51:55",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.11",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:21:51"
+    },
+    {
+        "timestamp": "2025-06-29 14:52:00",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.39",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:21:56"
+    },
+    {
+        "timestamp": "2025-06-29 14:52:05",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.38",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:22:1"
+    },
+    {
+        "timestamp": "2025-06-29 14:52:10",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.11",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:22:6"
+    },
+    {
+        "timestamp": "2025-06-29 14:52:15",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.33",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:22:11"
+    },
+    {
+        "timestamp": "2025-06-29 14:52:20",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "5.93",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:22:16"
+    },
+    {
+        "timestamp": "2025-06-29 14:52:25",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.03",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:22:21"
+    },
+    {
+        "timestamp": "2025-06-29 14:52:30",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.03",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:22:26"
+    },
+    {
+        "timestamp": "2025-06-29 14:52:35",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "5.95",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:22:31"
+    },
+    {
+        "timestamp": "2025-06-29 14:52:40",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "5.95",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:22:36"
+    },
+    {
+        "timestamp": "2025-06-29 14:52:45",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "5.96",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:22:41"
+    },
+    {
+        "timestamp": "2025-06-29 14:52:50",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.24",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:22:46"
+    },
+    {
+        "timestamp": "2025-06-29 14:52:55",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.00",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:22:51"
+    },
+    {
+        "timestamp": "2025-06-29 14:53:00",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.40",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:22:56"
+    },
+    {
+        "timestamp": "2025-06-29 14:53:05",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.42",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:23:1"
+    },
+    {
+        "timestamp": "2025-06-29 14:53:10",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.06",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:23:6"
+    },
+    {
+        "timestamp": "2025-06-29 14:53:15",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.18",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:23:11"
+    },
+    {
+        "timestamp": "2025-06-29 14:53:20",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.15",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:23:16"
+    },
+    {
+        "timestamp": "2025-06-29 14:53:25",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.37",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:23:21"
+    },
+    {
+        "timestamp": "2025-06-29 14:53:30",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.45",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:23:26"
+    },
+    {
+        "timestamp": "2025-06-29 14:53:35",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.49",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:23:31"
+    },
+    {
+        "timestamp": "2025-06-29 14:53:40",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.38",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:23:36"
+    },
+    {
+        "timestamp": "2025-06-29 14:53:45",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.01",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:23:41"
+    },
+    {
+        "timestamp": "2025-06-29 14:53:50",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.52",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:23:46"
+    },
+    {
+        "timestamp": "2025-06-29 14:53:55",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.16",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:23:51"
+    },
+    {
+        "timestamp": "2025-06-29 14:54:00",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.04",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:23:56"
+    },
+    {
+        "timestamp": "2025-06-29 14:54:05",
+        "TDS": "0.00",
+        "Turbidity": "2.94",
+        "pH": "6.06",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:24:1"
+    },
+    {
+        "timestamp": "2025-06-29 14:54:10",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "5.93",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:24:6"
+    },
+    {
+        "timestamp": "2025-06-29 14:54:15",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.45",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:24:11"
+    },
+    {
+        "timestamp": "2025-06-29 14:54:20",
+        "TDS": "1.21",
+        "Turbidity": "3.30",
+        "pH": "6.40",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:24:16"
+    },
+    {
+        "timestamp": "2025-06-29 14:54:25",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.03",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:24:21"
+    },
+    {
+        "timestamp": "2025-06-29 14:54:30",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "5.98",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:24:26"
+    },
+    {
+        "timestamp": "2025-06-29 14:54:35",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.33",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:24:31"
+    },
+    {
+        "timestamp": "2025-06-29 14:54:40",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.06",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:24:36"
+    },
+    {
+        "timestamp": "2025-06-29 14:54:45",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.43",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:24:41"
+    },
+    {
+        "timestamp": "2025-06-29 14:54:50",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.52",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:24:46"
+    },
+    {
+        "timestamp": "2025-06-29 14:54:55",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.46",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:24:51"
+    },
+    {
+        "timestamp": "2025-06-29 14:55:00",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.38",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:24:56"
+    },
+    {
+        "timestamp": "2025-06-29 14:55:05",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.10",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:25:1"
+    },
+    {
+        "timestamp": "2025-06-29 14:55:10",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.05",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:25:6"
+    },
+    {
+        "timestamp": "2025-06-29 14:55:15",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.41",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:25:11"
+    },
+    {
+        "timestamp": "2025-06-29 14:55:20",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.45",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:25:16"
+    },
+    {
+        "timestamp": "2025-06-29 14:55:25",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.08",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:25:21"
+    },
+    {
+        "timestamp": "2025-06-29 14:55:30",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.03",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:25:26"
+    },
+    {
+        "timestamp": "2025-06-29 14:55:35",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.43",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:25:31"
+    },
+    {
+        "timestamp": "2025-06-29 14:55:40",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.09",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:25:36"
+    },
+    {
+        "timestamp": "2025-06-29 14:55:45",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.07",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:25:41"
+    },
+    {
+        "timestamp": "2025-06-29 14:55:51",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.52",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:25:46"
+    },
+    {
+        "timestamp": "2025-06-29 14:55:56",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.02",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:25:51"
+    },
+    {
+        "timestamp": "2025-06-29 14:56:01",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.04",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:25:56"
+    },
+    {
+        "timestamp": "2025-06-29 14:56:06",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.02",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:26:1"
+    },
+    {
+        "timestamp": "2025-06-29 14:56:11",
+        "TDS": "0.00",
+        "Turbidity": "2.28",
+        "pH": "6.00",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:26:6"
+    },
+    {
+        "timestamp": "2025-06-29 14:56:16",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.43",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:26:11"
+    },
+    {
+        "timestamp": "2025-06-29 14:56:21",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.33",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:26:16"
+    },
+    {
+        "timestamp": "2025-06-29 14:56:26",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.27",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:26:21"
+    },
+    {
+        "timestamp": "2025-06-29 14:56:31",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.49",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:26:26"
+    },
+    {
+        "timestamp": "2025-06-29 14:56:36",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.37",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:26:31"
+    },
+    {
+        "timestamp": "2025-06-29 14:56:41",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.35",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:26:36"
+    },
+    {
+        "timestamp": "2025-06-29 14:56:46",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.55",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:26:41"
+    },
+    {
+        "timestamp": "2025-06-29 14:56:51",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.44",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:26:46"
+    },
+    {
+        "timestamp": "2025-06-29 14:56:56",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.43",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:26:51"
+    },
+    {
+        "timestamp": "2025-06-29 14:57:01",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "5.99",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:27:1"
+    },
+    {
+        "timestamp": "2025-06-29 14:57:06",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.08",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:27:6"
+    },
+    {
+        "timestamp": "2025-06-29 14:57:11",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.04",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:27:6"
+    },
+    {
+        "timestamp": "2025-06-29 14:57:16",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.18",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:27:11"
+    },
+    {
+        "timestamp": "2025-06-29 14:57:21",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "5.99",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:27:16"
+    },
+    {
+        "timestamp": "2025-06-29 14:57:26",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.50",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:27:21"
+    },
+    {
+        "timestamp": "2025-06-29 14:57:31",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.02",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:27:21"
+    },
+    {
+        "timestamp": "2025-06-29 14:57:36",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.43",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:27:21"
+    },
+    {
+        "timestamp": "2025-06-29 14:57:41",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.50",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:27:21"
+    },
+    {
+        "timestamp": "2025-06-29 14:57:46",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.43",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:27:41"
+    },
+    {
+        "timestamp": "2025-06-29 14:57:51",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.39",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:27:46"
+    },
+    {
+        "timestamp": "2025-06-29 14:57:56",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.37",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:27:51"
+    },
+    {
+        "timestamp": "2025-06-29 14:58:01",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.41",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:27:56"
+    },
+    {
+        "timestamp": "2025-06-29 14:58:06",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.36",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:27:56"
+    },
+    {
+        "timestamp": "2025-06-29 14:58:11",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.38",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:27:56"
+    },
+    {
+        "timestamp": "2025-06-29 14:58:16",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.37",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:27:56"
+    },
+    {
+        "timestamp": "2025-06-29 14:58:21",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.42",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:27:56"
+    },
+    {
+        "timestamp": "2025-06-29 14:58:26",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.33",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:27:56"
+    },
+    {
+        "timestamp": "2025-06-29 14:58:31",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.36",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:27:56"
+    },
+    {
+        "timestamp": "2025-06-29 14:58:36",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.35",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:27:56"
+    },
+    {
+        "timestamp": "2025-06-29 14:58:41",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.37",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:27:56"
+    },
+    {
+        "timestamp": "2025-06-29 14:58:46",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.36",
+        "Temperature": "-127.00",
+        "Latitude": "34.10672",
+        "Longitude": "74.85884",
+        "H": "9:27:56"
+    },
+    {
+        "timestamp": "2025-06-29 14:58:51",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.35",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:27:56"
+    },
+    {
+        "timestamp": "2025-06-29 14:58:56",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.39",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:27:56"
+    },
+    {
+        "timestamp": "2025-06-29 14:59:01",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.38",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:27:56"
+    },
+    {
+        "timestamp": "2025-06-29 14:59:06",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.36",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:27:56"
+    },
+    {
+        "timestamp": "2025-06-29 14:59:11",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.34",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:29:7"
+    },
+    {
+        "timestamp": "2025-06-29 14:59:16",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.39",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:29:12"
+    },
+    {
+        "timestamp": "2025-06-29 14:59:21",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.36",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:29:17"
+    },
+    {
+        "timestamp": "2025-06-29 14:59:26",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.37",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:29:22"
+    },
+    {
+        "timestamp": "2025-06-29 14:59:31",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.33",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:29:27"
+    },
+    {
+        "timestamp": "2025-06-29 14:59:36",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.38",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:29:32"
+    },
+    {
+        "timestamp": "2025-06-29 14:59:41",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.33",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:29:37"
+    },
+    {
+        "timestamp": "2025-06-29 14:59:46",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.36",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:29:42"
+    },
+    {
+        "timestamp": "2025-06-29 14:59:51",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.33",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:29:47"
+    },
+    {
+        "timestamp": "2025-06-29 14:59:56",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.35",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:29:52"
+    },
+    {
+        "timestamp": "2025-06-29 15:00:01",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.46",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:29:57"
+    },
+    {
+        "timestamp": "2025-06-29 15:00:06",
+        "TDS": "0.00",
+        "Turbidity": "3.30",
+        "pH": "6.42",
+        "Temperature": "-127.00",
+        "Latitude": "34.10",
+        "Longitude": "74.84",
+        "H": "9:30:2"
+    }
+]
